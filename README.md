@@ -1,0 +1,2 @@
+# Static-routing
+CCNA lab 
